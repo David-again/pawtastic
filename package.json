@@ -1,10 +1,10 @@
 {
   "name": "pawtastic",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "normalize.css": "^8.0.1",
     "react": "17.0.0",
     "react-dom": "17.0.0",
     "react-scripts": "3.4.3"
@@ -23,5 +23,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
